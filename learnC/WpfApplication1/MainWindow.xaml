@@ -22,7 +22,7 @@
                 <SolidColorBrush Color="#FF2C2C2C" Opacity="0.5"/>
             </Rectangle.Fill>
         </Rectangle>
-        <TextBlock x:Name="textBlock" Margin="128,34,0,254" TextWrapping="Wrap" Text="Quiz Computer Game" VerticalAlignment="Center" FontSize="29.333" HorizontalAlignment="Left" FontFamily="Miriam" Foreground="White" Height="34" Padding="0,5,0,0">
+        <TextBlock x:Name="textBlock" Margin="110,32,0,244" TextWrapping="Wrap" Text="Quiz Computer Game" VerticalAlignment="Center" FontSize="29.333" HorizontalAlignment="Left" FontFamily="Miriam" Foreground="White" Height="45" Padding="0,5,0,0" Width="282">
             <TextBlock.Effect>
                 <DropShadowEffect BlurRadius="2" Direction="345" Opacity="0.5" ShadowDepth="2"/>
             </TextBlock.Effect>

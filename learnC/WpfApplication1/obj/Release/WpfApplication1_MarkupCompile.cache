@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-C:\Users\wolfe\OneDrive\Documents\Repo\Quiz\learnC\WpfApplication1\obj\Debug\
+C:\Users\wolfe\OneDrive\Documents\Repo\Quiz\learnC\WpfApplication1\obj\Release\
 WpfApplication1
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\wolfe\OneDrive\Documents\Repo\Quiz\learnC\WpfApplication1\App.xaml
 4-649810779
 
-131325511342
+9-1794572821
 13738642453
 MainWindow.xaml;Quiz.xaml;Review.xaml;Scores.xaml;
 
